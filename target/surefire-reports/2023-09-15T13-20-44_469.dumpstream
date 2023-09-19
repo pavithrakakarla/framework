@@ -1,0 +1,5 @@
+# Created at 2023-09-15T13:20:44.667
+Boot Manifest-JAR contains absolute paths in classpath 'D:\TESTING\OTWANI\68-Maven Surefire plugin\Framework_001\SeleniumFramework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
